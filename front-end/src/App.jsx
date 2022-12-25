@@ -1,15 +1,11 @@
 import React from "react";
-import { Create } from "./components/pages/Create";
-import { Index } from "./components/pages/Index";
-import { Permissions } from "./components/pages/Permissions";
+import { PermissionRoutes } from "./routing/PermissionRoutes";
 
 function App() {
   return (
     <div className="App">
       <h1>n5now Permissions</h1>
-      <Index/>
-      <Permissions/>
-      <Create />
+      <PermissionRoutes/>
     </div>
 
   );
