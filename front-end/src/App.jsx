@@ -1,12 +1,17 @@
 import React from "react";
-import Button from '@mui/material/Button'
+import { Create } from "./components/pages/Create";
+import { Index } from "./components/pages/Index";
+import { Permissions } from "./components/pages/Permissions";
 
 function App() {
   return (
-    <div>
-      <Button>este es u boton</Button>
+    <div className="App">
+      <h1>n5now Permissions</h1>
+      <Index/>
+      <Permissions/>
+      <Create />
     </div>
- 
+
   );
 }
 
