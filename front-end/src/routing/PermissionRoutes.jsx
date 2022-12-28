@@ -6,6 +6,9 @@ import { Footer } from "../components/layout/Footer";
 import { Index } from "../components/pages/Index";
 import { Permissions } from "../components/pages/Permissions";
 import { Create } from "../components/pages/Create";
+import { Permission } from "../components/pages/Permission";
+import { Edit } from "../components/pages/Edit";
+
 
 export const PermissionRoutes = ()=>{
     return  (
@@ -20,10 +23,17 @@ export const PermissionRoutes = ()=>{
                 <Route path="/index" element={<Index/>}/>
                 <Route path="/permissions" element={<Permissions/>}/>
                 <Route path="/create-permissions" element={<Create/>}/>
+                <Route path="/permission/:id" element={<Permission/>}/>
+                <Route path="/edit/:id" element={<Edit/>}/>
+
+                <Route path="*" element={
+                    <div><h1>Error 404</h1></div>
+                }/>
+
                 </Routes>                
             </section>
 
             <Footer/>
         </BrowserRouter>
     );
-};
+};  

@@ -2,6 +2,7 @@ import React from 'react'
 import { useState, useEffect } from 'react'
 import axios from 'axios'
 import { Global } from '../../helpers/Global';
+import { List } from './List';
 
 export const Permissions = () => {
 
@@ -22,34 +23,15 @@ export const Permissions = () => {
         }
       )
     }, 500)
-
-
   };
 
   return (
     <>
-      {loading ? "LOADING" :
+      {loading ? "LOADING..." :
         permissions.length >= 1 ?
-          (
-            permissions.map(permission => {
-              return (
-                <article key={permission.id}>
-                  <h3>{permission.id}</h3>
-                  <p>{permission.employeeForename + " " + permission.employeeSurname}</p>
-                  <p>{"Permission Type: " + permission.permissionType}</p>
-                  <p>{"Permission Date: " + permission.permissionDate}</p>
-                  <button>Editar</button>
-                  <button>Borrar</button>
-                </article>
-              );
-            })
-          )
-          :
-          (
-            <h1>No items</h1>
-          )
+          <List permissions={permissions} setPermission={setPermissions} />
+          : <h1>No items</h1>
       }
-
     </>
   )
 }
