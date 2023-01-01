@@ -1,6 +1,8 @@
 import React from 'react'
 import { Link } from 'react-router-dom'
 import Paper from '@mui/material/Paper';
+import Typography from '@mui/material/Typography';
+
 
 export const Index = () => {
   return (
@@ -15,8 +17,9 @@ export const Index = () => {
             }}
         >
   <div>
-    <h1>Welcome to N5now</h1>
-    <p>Lorem ipsum dolor sit amet consectetur adipisicing elit. Nostrum vel magni quidem odit sapiente, voluptas ut est perspiciatis hic labore quia neque libero beatae cumque facere aspernatur delectus sint dolor.</p>
+    
+    <Typography align="center" variant="h5" m={2}>Welcome. Bienvenido. Salut. Hallo. Privet.</Typography>
+    <Typography sx={{ mt: 1.5 }} color="white">N5 has developed the way out of your complex legacy systems and into the fintech digital world, without having to change your core technology.</Typography>
   </div>
     </Paper >
   )
