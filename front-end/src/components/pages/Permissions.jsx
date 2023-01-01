@@ -14,7 +14,7 @@ export const Permissions = () => {
   }, []);
 
   const getPermissions = async () => {
-    setTimeout(() => {
+    
       axios.get(Global.url + "GetPermissions"
       ).then(
         response => {
@@ -22,7 +22,7 @@ export const Permissions = () => {
           setLoading(false);
         }
       )
-    }, 500)
+    
   };
 
   return (

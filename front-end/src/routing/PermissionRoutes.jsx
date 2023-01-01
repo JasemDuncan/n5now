@@ -14,7 +14,7 @@ export const PermissionRoutes = ()=>{
     return  (
         <BrowserRouter>
             {/*LAYOUT*/}
-            <Header/>
+            {/* <Header/> */}
             <Nav/>
             {/*Contenido central y rutas*/}
             <section id="content" className="content">
@@ -33,7 +33,7 @@ export const PermissionRoutes = ()=>{
                 </Routes>                
             </section>
 
-            <Footer/>
+            {/* <Footer/> */}
         </BrowserRouter>
     );
 };  
