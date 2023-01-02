@@ -1,4 +1,4 @@
-# Torc_THP_Receipt
+# N5NOW
 ![screenshot](./src/img/n5now.png)
 ## 📋 Description
 
