@@ -1,0 +1,78 @@
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/bin/Debug/net5.0/DL.deps.json
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/bin/Debug/net5.0/DL.dll
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/bin/Debug/net5.0/ref/DL.dll
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/bin/Debug/net5.0/DL.pdb
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/bin/Debug/net5.0/BE.dll
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/bin/Debug/net5.0/BE.pdb
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/DL.csproj.AssemblyReference.cache
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/DL.GeneratedMSBuildEditorConfig.editorconfig
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/DL.AssemblyInfoInputs.cache
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/DL.AssemblyInfo.cs
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/DL.csproj.CoreCompileInputs.cache
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/DL.csproj.CopyComplete
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/DL.dll
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/ref/DL.dll
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/DL.pdb
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/bin/Debug/net5.0/DL.runtimeconfig.json
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/bin/Debug/net5.0/DL.runtimeconfig.dev.json
+C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/DL.genruntimeconfig.cache
+/Users/admin/Downloads/Permissions/DL/bin/Debug/net5.0/DL.deps.json
+/Users/admin/Downloads/Permissions/DL/bin/Debug/net5.0/DL.runtimeconfig.json
+/Users/admin/Downloads/Permissions/DL/bin/Debug/net5.0/DL.runtimeconfig.dev.json
+/Users/admin/Downloads/Permissions/DL/bin/Debug/net5.0/DL.dll
+/Users/admin/Downloads/Permissions/DL/bin/Debug/net5.0/DL.pdb
+/Users/admin/Downloads/Permissions/DL/bin/Debug/net5.0/BE.dll
+/Users/admin/Downloads/Permissions/DL/bin/Debug/net5.0/DA.dll
+/Users/admin/Downloads/Permissions/DL/bin/Debug/net5.0/BE.pdb
+/Users/admin/Downloads/Permissions/DL/bin/Debug/net5.0/DA.pdb
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/DL.csproj.AssemblyReference.cache
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/DL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/DL.AssemblyInfoInputs.cache
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/DL.AssemblyInfo.cs
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/DL.csproj.CoreCompileInputs.cache
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/DL.csproj.CopyComplete
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/DL.dll
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/refint/DL.dll
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/DL.pdb
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/DL.genruntimeconfig.cache
+/Users/admin/Downloads/Permissions/DL/obj/Debug/net5.0/ref/DL.dll
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DL.deps.json
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DL.runtimeconfig.json
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DL.runtimeconfig.dev.json
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DL.dll
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DL.pdb
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/bin/Debug/net5.0/BE.dll
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DA.dll
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/bin/Debug/net5.0/BE.pdb
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DA.pdb
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.AssemblyInfo.cs
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.csproj.CopyComplete
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.dll
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/refint/DL.dll
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.pdb
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.genruntimeconfig.cache
+/Users/admin/Desktop/Jasem/take home projects/n5now/n5now/back-end/Permissions/DL/obj/Debug/net5.0/ref/DL.dll
+/Users/admin/Desktop/aux/back-end/Permissions/DL/bin/Debug/net5.0/DL.deps.json
+/Users/admin/Desktop/aux/back-end/Permissions/DL/bin/Debug/net5.0/DL.runtimeconfig.json
+/Users/admin/Desktop/aux/back-end/Permissions/DL/bin/Debug/net5.0/DL.runtimeconfig.dev.json
+/Users/admin/Desktop/aux/back-end/Permissions/DL/bin/Debug/net5.0/DL.dll
+/Users/admin/Desktop/aux/back-end/Permissions/DL/bin/Debug/net5.0/DL.pdb
+/Users/admin/Desktop/aux/back-end/Permissions/DL/bin/Debug/net5.0/BE.dll
+/Users/admin/Desktop/aux/back-end/Permissions/DL/bin/Debug/net5.0/DA.dll
+/Users/admin/Desktop/aux/back-end/Permissions/DL/bin/Debug/net5.0/BE.pdb
+/Users/admin/Desktop/aux/back-end/Permissions/DL/bin/Debug/net5.0/DA.pdb
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.csproj.AssemblyReference.cache
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.AssemblyInfoInputs.cache
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.AssemblyInfo.cs
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.csproj.CopyComplete
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.dll
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/refint/DL.dll
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.pdb
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.genruntimeconfig.cache
+/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/ref/DL.dll

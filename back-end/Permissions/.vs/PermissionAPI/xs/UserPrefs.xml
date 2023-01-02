@@ -1,0 +1,67 @@
+﻿<Properties StartupConfiguration="{3B2E5842-E9FD-4249-BDDF-7959217B6A86}|Default">
+  <MonoDevelop.Ide.ItemProperties.UnitTest PreferredExecutionTarget="MonoDevelop.Default" />
+  <MonoDevelop.Ide.ItemProperties.PermissionAPI PreferredExecutionTarget="/Applications/Google Chrome.app" />
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MultiItemStartupConfigurations />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="UnitTest/FactoryUnitTest.cs">
+    <Files>
+      <File FileName="UnitTest/FactoryUnitTest.cs" Line="32" Column="1" />
+      <File FileName="UnitTest/UnitTest1.cs" />
+      <File FileName="PermissionAPI/Startup.cs" />
+      <File FileName="PermissionAPI/Program.cs" />
+      <File FileName="BE/Interfaces/Repository/IPermissionRepository.cs" />
+      <File FileName="BE/Interfaces/Repository/IPermissionTypeRepository.cs" />
+      <File FileName="BE/Interfaces/Repository/IBaseRepository.cs" />
+      <File FileName="BE/Interfaces/Service/IPermissionService.cs" />
+      <File FileName="BE/Interfaces/Service/IPermissionTypeService.cs" />
+      <File FileName="BE/IUnitOfWork.cs" />
+      <File FileName="BE/Permission.cs" />
+      <File FileName="BE/PermissionType.cs" />
+      <File FileName="BL/Service/PermissionService.cs" />
+      <File FileName="BL/Service/PermissionTypeService.cs" />
+      <File FileName="DA/Command/BasicResponse.cs" />
+      <File FileName="DA/Command/PostPermissionQuery.cs" />
+      <File FileName="DA/Command/PutPermissionQuery.cs" />
+      <File FileName="DL/Repository/PermissionRepository.cs" />
+      <File FileName="DL/Repository/PermissionTypeRepository.cs" />
+      <File FileName="DL/Repository/BaseRepository.cs" />
+      <File FileName="PermissionAPI/Controllers/PermissionController.cs" />
+    </Files>
+    <Pads>
+      <Pad Id="ProjectPad">
+        <State name="__root__">
+          <Node name="PermissionAPI" expanded="True">
+            <Node name="BE" expanded="True">
+              <Node name="Interfaces" expanded="True">
+                <Node name="Repository" expanded="True" />
+                <Node name="Service" expanded="True" />
+              </Node>
+            </Node>
+            <Node name="BL" expanded="True">
+              <Node name="Service" expanded="True" />
+            </Node>
+            <Node name="DA" expanded="True">
+              <Node name="Command" expanded="True" />
+            </Node>
+            <Node name="DL" expanded="True" />
+            <Node name="PermissionAPI" expanded="True">
+              <Node name="Controllers" expanded="True" />
+            </Node>
+            <Node name="UnitTest" expanded="True">
+              <Node name="FactoryUnitTest.cs" selected="True" />
+            </Node>
+          </Node>
+        </State>
+      </Pad>
+      <Pad Id="MonoDevelop.UnitTesting.TestPad">
+        <State name="__root__">
+          <Node name="PermissionAPI" expanded="True" />
+        </State>
+      </Pad>
+    </Pads>
+  </MonoDevelop.Ide.Workbench>
+</Properties>
