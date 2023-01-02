@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj": {}
+    "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj": {}
   },
   "projects": {
-    "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj": {
+    "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj",
+        "projectUniqueName": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj",
         "projectName": "DA",
-        "projectPath": "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj",
+        "projectPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Desktop/aux/back-end/Permissions/DA/obj/",
+        "outputPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.nuget/NuGet/NuGet.Config"

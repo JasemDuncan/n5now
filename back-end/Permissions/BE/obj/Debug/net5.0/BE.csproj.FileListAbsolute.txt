@@ -55,3 +55,18 @@ C:/Users/USUARIO/source/repos/PermissionAPI/BE/obj/Debug/net5.0/BE.pdb
 /Users/admin/Desktop/aux/back-end/Permissions/BE/obj/Debug/net5.0/refint/BE.dll
 /Users/admin/Desktop/aux/back-end/Permissions/BE/obj/Debug/net5.0/BE.pdb
 /Users/admin/Desktop/aux/back-end/Permissions/BE/obj/Debug/net5.0/ref/BE.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/bin/Debug/net5.0/BE.deps.json
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/bin/Debug/net5.0/BE.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/bin/Debug/net5.0/BE.pdb
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/bin/Debug/net5.0/DA.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/bin/Debug/net5.0/DA.pdb
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/Debug/net5.0/BE.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/Debug/net5.0/BE.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/Debug/net5.0/BE.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/Debug/net5.0/BE.AssemblyInfo.cs
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/Debug/net5.0/BE.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/Debug/net5.0/BE.csproj.CopyComplete
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/Debug/net5.0/BE.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/Debug/net5.0/refint/BE.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/Debug/net5.0/BE.pdb
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/Debug/net5.0/ref/BE.dll

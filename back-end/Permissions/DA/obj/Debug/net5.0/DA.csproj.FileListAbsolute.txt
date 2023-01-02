@@ -34,3 +34,15 @@
 /Users/admin/Desktop/aux/back-end/Permissions/DA/obj/Debug/net5.0/refint/DA.dll
 /Users/admin/Desktop/aux/back-end/Permissions/DA/obj/Debug/net5.0/DA.pdb
 /Users/admin/Desktop/aux/back-end/Permissions/DA/obj/Debug/net5.0/ref/DA.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/bin/Debug/net5.0/DA.deps.json
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/bin/Debug/net5.0/DA.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/bin/Debug/net5.0/DA.pdb
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/Debug/net5.0/DA.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/Debug/net5.0/DA.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/Debug/net5.0/DA.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/Debug/net5.0/DA.AssemblyInfo.cs
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/Debug/net5.0/DA.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/Debug/net5.0/DA.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/Debug/net5.0/refint/DA.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/Debug/net5.0/DA.pdb
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/Debug/net5.0/ref/DA.dll

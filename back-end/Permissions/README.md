@@ -2,38 +2,44 @@
 ![screenshot](./src/img/n5now.png)
 ## 📋 Description
 
-This is a take-home project,and the front end it is implemented in React.
+This is a take-home project,and the back end was implemented in .NET CORE.
 
 ## ✅  Instructions to Run it on Your Local Machine
 ​
 To have a version on you local machine:
 - Clone this repository.
 - Open a terminal on the containing folder of this project.
-- If you want to run it, run in the console:
-> npm start
+- If you want to run it, run in the proyect.s
 
 ## 🎯 Problem Statement
 
 N5 company requests a Web API for registering user permissions.
- - Build an app in ReactJS and use Axios to connect to the backend.
- - Create the forms to consume the Web API.
- - For the visual components, the candidate must use those provided by
-the Material-UI library.
+ - Create a Web API using ASP .NET Core and persist data on SQL Server.
+ - Make use of EntityFramework.
+ - The Web API must have 3 services “Request Permission”, “Modify
+Permission” and “Get Permissions”. 
+- Making use of repository pattern and Unit of Work and CQRS
+pattern(Desired).
 
 
-### Main
 
-![screenshot](./src/img/input.png)
+### End point List
 
-### List permissionss
+### Get permissionss
 
-![screenshot](./src/img/list.png)
+> https://localhost:5001/api/Permission/GetPermissions
+![screenshot](./src/img/get.png)
 
-### Request permission
-![screenshot](./src/img/request.png)
+### Request permissionss
 
-### Modify permission
-![screenshot](./src/img/modify.png)
+> https://localhost:5001/api/Permission/RequestPermission
+![screenshot](./src/img/post.png)
+
+### Modify permissionss
+
+> https://localhost:5001/api/Permission/ModifiyPermission
+![screenshot](./src/img/put.png)
+
 
 ## Author
 

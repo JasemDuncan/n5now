@@ -76,3 +76,23 @@ C:/Users/USUARIO/source/repos/PermissionAPI/DL/obj/Debug/net5.0/DL.genruntimecon
 /Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.pdb
 /Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/DL.genruntimeconfig.cache
 /Users/admin/Desktop/aux/back-end/Permissions/DL/obj/Debug/net5.0/ref/DL.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DL.deps.json
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DL.runtimeconfig.json
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DL.runtimeconfig.dev.json
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DL.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DL.pdb
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/bin/Debug/net5.0/BE.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DA.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/bin/Debug/net5.0/BE.pdb
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/bin/Debug/net5.0/DA.pdb
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.csproj.AssemblyReference.cache
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.GeneratedMSBuildEditorConfig.editorconfig
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.AssemblyInfoInputs.cache
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.AssemblyInfo.cs
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.csproj.CoreCompileInputs.cache
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.csproj.CopyComplete
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/refint/DL.dll
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.pdb
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/DL.genruntimeconfig.cache
+/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/Debug/net5.0/ref/DL.dll

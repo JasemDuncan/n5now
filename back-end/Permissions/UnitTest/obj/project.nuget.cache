@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "VbkqWWo03nONhUMwCMO1VsD79V0eJ0yQML+w2ymTpSY+ZwPPh/WPWDBT8Qq2bN/r5kG4lrzUGc4v9z1UoVidzw==",
+  "dgSpecHash": "yZu9DGB3hYL6IC/qqgUmVob19uAlgtcUluXCA+VcS8DLcokS+ghwYB6/tBHWm4Dha86YONwp4R+cj+EC/fqfYA==",
   "success": true,
-  "projectFilePath": "/Users/admin/Desktop/aux/back-end/Permissions/UnitTest/UnitTest.csproj",
+  "projectFilePath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/UnitTest/UnitTest.csproj",
   "expectedPackageFiles": [
     "/Users/admin/.nuget/packages/coverlet.collector/3.0.2/coverlet.collector.3.0.2.nupkg.sha512",
     "/Users/admin/.nuget/packages/microsoft.codecoverage/16.9.4/microsoft.codecoverage.16.9.4.nupkg.sha512",

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "/Users/admin/Desktop/aux/back-end/Permissions/BL/BL.csproj": {}
+    "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BL/BL.csproj": {}
   },
   "projects": {
-    "/Users/admin/Desktop/aux/back-end/Permissions/BE/BE.csproj": {
+    "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/BE.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Desktop/aux/back-end/Permissions/BE/BE.csproj",
+        "projectUniqueName": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/BE.csproj",
         "projectName": "BE",
-        "projectPath": "/Users/admin/Desktop/aux/back-end/Permissions/BE/BE.csproj",
+        "projectPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/BE.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Desktop/aux/back-end/Permissions/BE/obj/",
+        "outputPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.nuget/NuGet/NuGet.Config"
@@ -27,8 +27,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj": {
-                "projectPath": "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj"
+              "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj": {
+                "projectPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj"
               }
             }
           }
@@ -62,14 +62,14 @@
         }
       }
     },
-    "/Users/admin/Desktop/aux/back-end/Permissions/BL/BL.csproj": {
+    "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BL/BL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Desktop/aux/back-end/Permissions/BL/BL.csproj",
+        "projectUniqueName": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BL/BL.csproj",
         "projectName": "BL",
-        "projectPath": "/Users/admin/Desktop/aux/back-end/Permissions/BL/BL.csproj",
+        "projectPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BL/BL.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Desktop/aux/back-end/Permissions/BL/obj/",
+        "outputPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.nuget/NuGet/NuGet.Config"
@@ -85,14 +85,14 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/admin/Desktop/aux/back-end/Permissions/BE/BE.csproj": {
-                "projectPath": "/Users/admin/Desktop/aux/back-end/Permissions/BE/BE.csproj"
+              "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/BE.csproj": {
+                "projectPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/BE.csproj"
               },
-              "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj": {
-                "projectPath": "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj"
+              "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj": {
+                "projectPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj"
               },
-              "/Users/admin/Desktop/aux/back-end/Permissions/DL/DL.csproj": {
-                "projectPath": "/Users/admin/Desktop/aux/back-end/Permissions/DL/DL.csproj"
+              "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/DL.csproj": {
+                "projectPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/DL.csproj"
               }
             }
           }
@@ -132,14 +132,14 @@
         }
       }
     },
-    "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj": {
+    "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj",
+        "projectUniqueName": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj",
         "projectName": "DA",
-        "projectPath": "/Users/admin/Desktop/aux/back-end/Permissions/DA/DA.csproj",
+        "projectPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/DA.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Desktop/aux/back-end/Permissions/DA/obj/",
+        "outputPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DA/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.nuget/NuGet/NuGet.Config"
@@ -186,14 +186,14 @@
         }
       }
     },
-    "/Users/admin/Desktop/aux/back-end/Permissions/DL/DL.csproj": {
+    "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/DL.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "/Users/admin/Desktop/aux/back-end/Permissions/DL/DL.csproj",
+        "projectUniqueName": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/DL.csproj",
         "projectName": "DL",
-        "projectPath": "/Users/admin/Desktop/aux/back-end/Permissions/DL/DL.csproj",
+        "projectPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/DL.csproj",
         "packagesPath": "/Users/admin/.nuget/packages/",
-        "outputPath": "/Users/admin/Desktop/aux/back-end/Permissions/DL/obj/",
+        "outputPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/DL/obj/",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "/Users/admin/.nuget/NuGet/NuGet.Config"
@@ -209,8 +209,8 @@
           "net5.0": {
             "targetAlias": "net5.0",
             "projectReferences": {
-              "/Users/admin/Desktop/aux/back-end/Permissions/BE/BE.csproj": {
-                "projectPath": "/Users/admin/Desktop/aux/back-end/Permissions/BE/BE.csproj"
+              "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/BE.csproj": {
+                "projectPath": "/Users/admin/Desktop/Jasem/take home projects/aux/n5now/back-end/Permissions/BE/BE.csproj"
               }
             }
           }
